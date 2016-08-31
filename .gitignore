@@ -38,3 +38,10 @@ jspm_packages
 
 # IntelliJ files
 .idea
+
+# Typings
+typings
+
+# Typescript generated files
+app/*.js
+app/*.js.map
